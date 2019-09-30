@@ -1,0 +1,9 @@
+
+
+
+今日内容:
+	0. 反射应用（hasattr()）、Callable
+	1. 文件操作练习、以及文件操作的扩展（__getattr__/getattr()）
+	2. 复习特殊方法、__call__的用法
+	3. 重讲__iter__/__next__
+	4. 了解itertools模块

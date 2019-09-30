@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>可拖拽小部件（Draggable Widget）演示</title>
+  <link rel="stylesheet" href="//apps.bdimg.com/libs/jqueryui/1.10.4/css/jquery-ui.min.css">
+  <style>
+  #draggable {
+    width: 100px;
+    height: 100px;
+    background: #ccc;
+  }
+      #droppable{
+          width: 200px;
+          height: 300px;
+          background:lawngreen;
+          margin-left: 400px;
+      }
+  </style>
+  <script src="//apps.bdimg.com/libs/jquery/1.10.2/jquery.min.js"></script>
+  <script src="//apps.bdimg.com/libs/jqueryui/1.10.4/jquery-ui.min.js"></script>
+</head>
+<body>
+
+<div id="draggable">请拖拽我！</div>
+
+<div id="droppable">放到这里</div>
+
+<script>
+$( "#draggable" ).draggable();
+</script>
+
+</body>
+</html>

@@ -1,0 +1,742 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6a38ecf1-d240-48fd-91cc-9d28c3c64c59" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/py3_study$urllib_demo.coverage" NAME="urllib_demo Coverage Results" MODIFIED="1565249108361" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/example_demo/flask_demo" />
+    <SUITE FILE_PATH="coverage/py3_study$hashlib_hmac_study.coverage" NAME="hashlib_hmac_study Coverage Results" MODIFIED="1565316204625" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BaseStudy/mk_14_module_study" />
+    <SUITE FILE_PATH="coverage/py3_study$requests_demo.coverage" NAME="requests_demo Coverage Results" MODIFIED="1565318627950" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/example_demo/flask_demo" />
+    <SUITE FILE_PATH="coverage/py3_study$wsgi_demo.coverage" NAME="wsgi_demo Coverage Results" MODIFIED="1565254110204" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/example_demo/flask_demo" />
+    <SUITE FILE_PATH="coverage/py3_study$socket_http_demo.coverage" NAME="socket_http_demo Coverage Results" MODIFIED="1565319260613" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/example_demo/flask_demo" />
+    <SUITE FILE_PATH="coverage/py3_study$turtle_study.coverage" NAME="turtle_study Coverage Results" MODIFIED="1565149901238" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/example_demo" />
+    <SUITE FILE_PATH="coverage/py3_study$_1901_0810.coverage" NAME="周考_1901_0810 Coverage Results" MODIFIED="1565419256868" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BaseStudy/周考" />
+    <SUITE FILE_PATH="coverage/py3_study$user_agent_demo.coverage" NAME="user_agent_demo Coverage Results" MODIFIED="1565246509650" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/example_demo/flask_demo" />
+    <SUITE FILE_PATH="coverage/py3_study$demo_01.coverage" NAME="demo_01 Coverage Results" MODIFIED="1565226256628" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/example_demo/flask_demo" />
+    <SUITE FILE_PATH="coverage/py3_study$file_server.coverage" NAME="file_server Coverage Results" MODIFIED="1565407407218" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BaseStudy/周考" />
+    <SUITE FILE_PATH="coverage/py3_study$practice_01.coverage" NAME="practice_01 Coverage Results" MODIFIED="1565419539775" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BaseStudy/mk_10_for_while_study" />
+    <SUITE FILE_PATH="coverage/py3_study$encode_demo.coverage" NAME="encode_demo Coverage Results" MODIFIED="1565250212128" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BaseStudy/mk_11_file_study" />
+    <SUITE FILE_PATH="coverage/py3_study$image_demo.coverage" NAME="image_demo Coverage Results" MODIFIED="1565158882878" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/example_demo/spider_demo" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/周考/file_server.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="567">
+              <caret line="21" selection-start-line="21" selection-end-line="21" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>str(</find>
+      <find>tuple(</find>
+      <find>int</find>
+      <find>end</find>
+      <find>handlers</find>
+      <find>upload_file</find>
+      <find>result_</find>
+      <find>common_file_index</find>
+      <find>fileno</find>
+      <find>html</find>
+      <find>images_path</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/周考/upload_file_19-09-21/郭冀邯.py" />
+        <option value="$PROJECT_DIR$/周考/upload_file_19-09-21/李贺.py" />
+        <option value="$PROJECT_DIR$/BaseStudy/mk_17_socket_study/file_upload/tcp_client.py" />
+        <option value="$PROJECT_DIR$/BaseStudy/mk_17_socket_study/file_upload/t.txt" />
+        <option value="$PROJECT_DIR$/BaseStudy/mk_17_socket_study/file_upload/test.txt" />
+        <option value="$PROJECT_DIR$/BaseStudy/mk_17_socket_study/file_upload/test.py" />
+        <option value="$PROJECT_DIR$/BaseStudy/mk_17_socket_study/file_upload/tcp_server.py" />
+        <option value="$PROJECT_DIR$/BaseStudy/mk_17_socket_study/tcp_server_demo.py" />
+        <option value="$PROJECT_DIR$/BaseStudy/mk_17_socket_study/tcp_client_demo.py" />
+        <option value="$PROJECT_DIR$/BaseStudy/mk_17_socket_study/测试/tcp_client_02.py" />
+        <option value="$PROJECT_DIR$/BaseStudy/mk_17_socket_study/readme.md" />
+        <option value="$PROJECT_DIR$/BaseStudy/mk_17_socket_study/测试/subprocess.py" />
+        <option value="$PROJECT_DIR$/BaseStudy/mk_17_socket_study/测试/decode_demo.py" />
+        <option value="$PROJECT_DIR$/BaseStudy/mk_17_socket_study/测试/test.py" />
+        <option value="$PROJECT_DIR$/BaseStudy/mk_17_socket_study/测试/os_demo.py" />
+        <option value="$PROJECT_DIR$/example_demo/flask_demo/socket_http_demo.py" />
+        <option value="$PROJECT_DIR$/example_demo/flask_demo/tt/t.txt" />
+        <option value="$PROJECT_DIR$/example_demo/flask_demo/socket_http_demo_ 02.py" />
+        <option value="$PROJECT_DIR$/example_demo/flask_demo/urllib_demo.py" />
+        <option value="$PROJECT_DIR$/BaseStudy/mk_17_socket_study/udp_client_demo.py" />
+        <option value="$PROJECT_DIR$/BaseStudy/mk_17_socket_study/udp_server_demo.py" />
+        <option value="$PROJECT_DIR$/BaseStudy/mk_17_socket_study/tcp_simple_server.py" />
+        <option value="$PROJECT_DIR$/BaseStudy/mk_17_socket_study/tcp_simple_client.py" />
+        <option value="$PROJECT_DIR$/BaseStudy/mk_17_socket_study/测试/tcp_client.py" />
+        <option value="$PROJECT_DIR$/BaseStudy/mk_17_socket_study/ssh_server_demo.py" />
+        <option value="$PROJECT_DIR$/BaseStudy/mk_17_socket_study/测试/tcp_server.py" />
+        <option value="$PROJECT_DIR$/BaseStudy/mk_17_socket_study/ssh_client_demo.py" />
+        <option value="$PROJECT_DIR$/BaseStudy/mk_17_socket_study/测试/subprocess_demo.py" />
+        <option value="$PROJECT_DIR$/SpiderStudy/图片下载/image_download.py" />
+        <option value="$PROJECT_DIR$/BaseStudy/mk_17_socket_study/http_server/socket_http_demo_ 02.py" />
+        <option value="$PROJECT_DIR$/BaseStudy/mk_17_socket_study/http_server/socket_http_demo_02.py" />
+        <option value="$PROJECT_DIR$/BaseStudy/mk_17_socket_study/课件代码/网络模型.md" />
+        <option value="$PROJECT_DIR$/markdown/标题.md" />
+        <option value="$PROJECT_DIR$/BaseStudy/mk_17_socket_study/课件代码/socket基础.md" />
+        <option value="$PROJECT_DIR$/BaseStudy/mk_17_socket_study/课件代码/readme.md" />
+        <option value="$PROJECT_DIR$/BaseStudy/mk_15_object_study/面向对象-课件/面向对象08.md" />
+        <option value="$PROJECT_DIR$/BaseStudy/mk_15_object_study/面向对象-课件/面向对象01.md" />
+        <option value="$PROJECT_DIR$/BaseStudy/mk_15_object_study/面向对象-课件/面向对象02.md" />
+        <option value="$PROJECT_DIR$/BaseStudy/mk_15_object_study/面向对象-课件/面向对象03.md" />
+        <option value="$PROJECT_DIR$/BaseStudy/mk_15_object_study/面向对象-课件/面向对象04.md" />
+        <option value="$PROJECT_DIR$/BaseStudy/mk_15_object_study/面向对象-课件/面向对象05.md" />
+        <option value="$PROJECT_DIR$/BaseStudy/mk_17_socket_study/网络编程-课件/readme.md" />
+        <option value="$PROJECT_DIR$/BaseStudy/mk_15_object_study/面向对象-课件/readme.md" />
+        <option value="$PROJECT_DIR$/BaseStudy/mk_11_file_study/seek_demo.py" />
+        <option value="$PROJECT_DIR$/BaseStudy/mk_11_file_study/encode_demo.py" />
+        <option value="$PROJECT_DIR$/面向对象课上代码/September/9-24/周考-9-21-答案.py" />
+        <option value="$PROJECT_DIR$/周考/common_file/test_log.log" />
+        <option value="$PROJECT_DIR$/周考/common_file/socket_http_demo.py" />
+        <option value="$PROJECT_DIR$/面向对象课上代码/September/9-9/练习题01.py" />
+        <option value="$PROJECT_DIR$/周考/file_server.py" />
+        <option value="$PROJECT_DIR$/BaseStudy/作业练习题/字符串练习/practice_01.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="17" />
+    <option name="y" value="35" />
+    <option name="width" value="1400" />
+    <option name="height" value="780" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="py3-study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="py3-study" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="py3-study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="py3-study" type="462c0819:PsiDirectoryNode" />
+              <item name="BaseStudy" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="py3-study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="py3-study" type="462c0819:PsiDirectoryNode" />
+              <item name="BaseStudy" type="462c0819:PsiDirectoryNode" />
+              <item name="mk_17_socket_study" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="py3-study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="py3-study" type="462c0819:PsiDirectoryNode" />
+              <item name="BaseStudy" type="462c0819:PsiDirectoryNode" />
+              <item name="mk_17_socket_study" type="462c0819:PsiDirectoryNode" />
+              <item name="网络编程-课件" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="py3-study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="py3-study" type="462c0819:PsiDirectoryNode" />
+              <item name="周考" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="py3-study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="py3-study" type="462c0819:PsiDirectoryNode" />
+              <item name="周考" type="462c0819:PsiDirectoryNode" />
+              <item name="common_file" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/周考/upload_file_19-09-30" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.General" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\liuluyang\课件代码\py3-study\周考\upload_file_19-09-30" />
+      <recent name="E:\liuluyang\课件代码\py3-study\周考\common_file" />
+      <recent name="E:\liuluyang\课件代码\py3-study\BaseStudy\作业练习题\早练" />
+      <recent name="E:\liuluyang\课件代码\py3-study\BaseStudy\作业练习题\考题\文件" />
+      <recent name="E:\liuluyang\课件代码\py3-study\BaseStudy\作业练习题\考题" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\liuluyang\课件代码\py3-study\example_demo\base64_demo" />
+      <recent name="E:\liuluyang\课件代码\py3-study\BaseStudy\mk_15_object_study\课件代码" />
+      <recent name="E:\liuluyang\课件代码\py3-study\BaseStudy\mk_15_object_study\测试" />
+      <recent name="E:\liuluyang\课件代码\py3-study\BaseStudy\mk_15_object_study\面向对象-课件" />
+      <recent name="E:\liuluyang\课件代码\py3-study\BaseStudy\mk_17_socket_study\基础实例" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.file_server">
+    <configuration name="encode_demo" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="py3-study" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BaseStudy/mk_11_file_study" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BaseStudy/mk_11_file_study/encode_demo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="file_server" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="py3-study" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/周考" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/周考/file_server.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="practice_01" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="py3-study" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BaseStudy/作业练习题/字符串练习" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BaseStudy/作业练习题/字符串练习/practice_01.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="seek_demo" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="py3-study" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BaseStudy/mk_11_file_study" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BaseStudy/mk_11_file_study/seek_demo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="socket_http_demo_ 02" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="py3-study" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BaseStudy/mk_17_socket_study/http_server" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="E:\liuluyang\课件代码\py3-study\BaseStudy\mk_17_socket_study\http_server\socket_http_demo_02.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.file_server" />
+        <item itemvalue="Python.practice_01" />
+        <item itemvalue="Python.encode_demo" />
+        <item itemvalue="Python.seek_demo" />
+        <item itemvalue="Python.socket_http_demo_ 02" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6a38ecf1-d240-48fd-91cc-9d28c3c64c59" name="Default Changelist" comment="" />
+      <created>1565147372588</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1565147372588</updated>
+      <workItem from="1565147376309" duration="13973000" />
+      <workItem from="1565224355257" duration="18396000" />
+      <workItem from="1565259578817" duration="921000" />
+      <workItem from="1565313383528" duration="7746000" />
+      <workItem from="1565331085546" duration="15621000" />
+      <workItem from="1565434320580" duration="952000" />
+      <workItem from="1565597989622" duration="3278000" />
+      <workItem from="1565657173506" duration="38767000" />
+      <workItem from="1565915541716" duration="27540000" />
+      <workItem from="1566347406437" duration="12010000" />
+      <workItem from="1566433809339" duration="8987000" />
+      <workItem from="1566520354627" duration="13173000" />
+      <workItem from="1566608976054" duration="16989000" />
+      <workItem from="1566779130488" duration="23161000" />
+      <workItem from="1566870177153" duration="14138000" />
+      <workItem from="1566956803145" duration="15071000" />
+      <workItem from="1567038891322" duration="29364000" />
+      <workItem from="1567128193874" duration="10457000" />
+      <workItem from="1567157244706" duration="797000" />
+      <workItem from="1567211754029" duration="7718000" />
+      <workItem from="1567224553351" duration="13000" />
+      <workItem from="1567225515159" duration="10661000" />
+      <workItem from="1567394684986" duration="1938000" />
+      <workItem from="1567481377428" duration="1433000" />
+      <workItem from="1567487366951" duration="3206000" />
+      <workItem from="1567558399651" duration="22588000" />
+      <workItem from="1567643990690" duration="23069000" />
+      <workItem from="1567731627902" duration="20178000" />
+      <workItem from="1567762852858" duration="4053000" />
+      <workItem from="1567817728038" duration="18565000" />
+      <workItem from="1567989950734" duration="10821000" />
+      <workItem from="1568025752151" duration="34000" />
+      <workItem from="1568075704161" duration="1449000" />
+      <workItem from="1568085023810" duration="319000" />
+      <workItem from="1568183933199" duration="3333000" />
+      <workItem from="1568269887346" duration="4857000" />
+      <workItem from="1568594602882" duration="2316000" />
+      <workItem from="1568615197095" duration="337000" />
+      <workItem from="1568693992571" duration="1221000" />
+      <workItem from="1568883015382" duration="2036000" />
+      <workItem from="1568939710188" duration="483000" />
+      <workItem from="1569027813388" duration="7888000" />
+      <workItem from="1569200185825" duration="3000" />
+      <workItem from="1569203206316" duration="16577000" />
+      <workItem from="1569285425697" duration="473000" />
+      <workItem from="1569317550455" duration="2587000" />
+      <workItem from="1569384931422" duration="4813000" />
+      <workItem from="1569545102140" duration="1838000" />
+      <workItem from="1569548415799" duration="21419000" />
+      <workItem from="1569631628369" duration="26959000" />
+      <workItem from="1569717002118" duration="17806000" />
+      <workItem from="1569803438974" duration="2445000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="514777000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="54" y="-8" width="1554" height="916" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49912435" visible="true" weight="0.20013388" />
+      <window_info id="Structure" order="1" sideWeight="0.50087565" side_tool="true" weight="0.22943445" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32891247" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49933067" weight="0.2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3986842" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50066936" side_tool="true" weight="0.46184212" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32998326" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.32998326" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" x="0" y="0" width="295" height="554" id="Documentation" order="4" side_tool="true" visible="true" weight="0.14220877" />
+      <window_info anchor="right" id="Database" order="5" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/py3_study$super_demo.coverage" NAME="super_demo Coverage Results" MODIFIED="1566526890173" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BaseStudy/mk_15_object_study" />
+    <SUITE FILE_PATH="coverage/py3_study$ssh_client_demo.coverage" NAME="ssh_client_demo Coverage Results" MODIFIED="1569650864939" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BaseStudy/mk_17_socket_study" />
+    <SUITE FILE_PATH="coverage/py3_study$demo_01.coverage" NAME="demo_01 Coverage Results" MODIFIED="1567850303073" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BaseStudy/mk_15_object_study" />
+    <SUITE FILE_PATH="coverage/py3_study$re_study.coverage" NAME="re_study Coverage Results" MODIFIED="1566011790108" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BaseStudy/mk_14_module_study" />
+    <SUITE FILE_PATH="coverage/py3_study$study_5.coverage" NAME="study_5 Coverage Results" MODIFIED="1566623419754" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BaseStudy/mk_13_function_study" />
+    <SUITE FILE_PATH="coverage/py3_study$_1901_0831_0905.coverage" NAME="二次月考_1901_0831_0905 Coverage Results" MODIFIED="1567671301898" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BaseStudy/周考/upload_file_19-09-05" />
+    <SUITE FILE_PATH="coverage/py3_study$study_2.coverage" NAME="study_2 Coverage Results" MODIFIED="1567592099461" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BaseStudy/mk_15_object_study" />
+    <SUITE FILE_PATH="coverage/py3_study$stock_data_process.coverage" NAME="stock_data_process Coverage Results" MODIFIED="1565924590189" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BaseStudy/作业练习题/文件及数据结构综合操作" />
+    <SUITE FILE_PATH="coverage/py3_study$urllib_demo.coverage" NAME="urllib_demo Coverage Results" MODIFIED="1569631888442" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/example_demo/flask_demo" />
+    <SUITE FILE_PATH="coverage/py3_study$image_download.coverage" NAME="image_download Coverage Results" MODIFIED="1569662034243" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SpiderStudy/图片下载" />
+    <SUITE FILE_PATH="coverage/py3_study$_1901_0831.coverage" NAME="月考试题及答案_1901_0831 Coverage Results" MODIFIED="1567227550692" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BaseStudy/周考/images" />
+    <SUITE FILE_PATH="coverage/py3_study$file_server.coverage" NAME="file_server Coverage Results" MODIFIED="1569808435774" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/周考" />
+    <SUITE FILE_PATH="coverage/py3_study$tcp_simple_client.coverage" NAME="tcp_simple_client Coverage Results" MODIFIED="1569647379509" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BaseStudy/mk_17_socket_study" />
+    <SUITE FILE_PATH="coverage/py3_study$socket_http_demo__02.coverage" NAME="socket_http_demo_ 02 Coverage Results" MODIFIED="1569664259709" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BaseStudy/mk_17_socket_study/http_server" />
+    <SUITE FILE_PATH="coverage/py3_study$practice_01.coverage" NAME="practice_01 Coverage Results" MODIFIED="1569739298857" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BaseStudy/作业练习题/字符串练习" />
+    <SUITE FILE_PATH="coverage/py3_study$day03.coverage" NAME="day03 Coverage Results" MODIFIED="1567584392771" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BaseStudy/mk_15_object_study" />
+    <SUITE FILE_PATH="coverage/py3_study$_9_21.coverage" NAME="周考-9-21 Coverage Results" MODIFIED="1569044507034" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/周考/upload_file_19-09-21" />
+    <SUITE FILE_PATH="coverage/py3_study$hello.coverage" NAME="hello Coverage Results" MODIFIED="1566979911289" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BaseStudy/mk_14_module_study/mkdir_demo" />
+    <SUITE FILE_PATH="coverage/py3_study$day06.coverage" NAME="day06 Coverage Results" MODIFIED="1567755197267" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BaseStudy/mk_15_object_study" />
+    <SUITE FILE_PATH="coverage/py3_study$udp_client_demo.coverage" NAME="udp_client_demo Coverage Results" MODIFIED="1569643208909" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BaseStudy/mk_17_socket_study" />
+    <SUITE FILE_PATH="coverage/py3_study$img_upload.coverage" NAME="img_upload Coverage Results" MODIFIED="1565660706708" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BaseStudy/周考" />
+    <SUITE FILE_PATH="coverage/py3_study$shutill_study.coverage" NAME="shutill_study Coverage Results" MODIFIED="1566982512704" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BaseStudy/mk_14_module_study" />
+    <SUITE FILE_PATH="coverage/py3_study$udp_server_demo.coverage" NAME="udp_server_demo Coverage Results" MODIFIED="1569643081746" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BaseStudy/mk_17_socket_study" />
+    <SUITE FILE_PATH="coverage/py3_study$day01.coverage" NAME="day01 Coverage Results" MODIFIED="1567573362361" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BaseStudy/mk_15_object_study" />
+    <SUITE FILE_PATH="coverage/py3_study$tcp_server_demo.coverage" NAME="tcp_server_demo Coverage Results" MODIFIED="1569234083196" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BaseStudy/mk_17_socket_study" />
+    <SUITE FILE_PATH="coverage/py3_study$encode_demo.coverage" NAME="encode_demo Coverage Results" MODIFIED="1569729369939" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BaseStudy/mk_11_file_study" />
+    <SUITE FILE_PATH="coverage/py3_study$study_1__1_.coverage" NAME="study_1 (1) Coverage Results" MODIFIED="1567135134943" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BaseStudy/mk_03_operator_study" />
+    <SUITE FILE_PATH="coverage/py3_study$logging_study.coverage" NAME="logging_study Coverage Results" MODIFIED="1567833522988" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BaseStudy/mk_14_module_study" />
+    <SUITE FILE_PATH="coverage/py3_study$.coverage" NAME="李康 Coverage Results" MODIFIED="1569045629700" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/周考/upload_file_19-09-21" />
+    <SUITE FILE_PATH="coverage/py3_study$sys_study.coverage" NAME="sys_study Coverage Results" MODIFIED="1567215496295" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BaseStudy/mk_14_module_study" />
+    <SUITE FILE_PATH="coverage/py3_study$make_card.coverage" NAME="make_card Coverage Results" MODIFIED="1566003867439" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BaseStudy/作业练习题/循环练习" />
+    <SUITE FILE_PATH="coverage/py3_study$day007.coverage" NAME="day007 Coverage Results" MODIFIED="1567837778884" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BaseStudy/mk_15_object_study" />
+    <SUITE FILE_PATH="coverage/py3_study$tcp_client_demo.coverage" NAME="tcp_client_demo Coverage Results" MODIFIED="1569234419895" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BaseStudy/mk_17_socket_study" />
+    <SUITE FILE_PATH="coverage/py3_study$seek_demo.coverage" NAME="seek_demo Coverage Results" MODIFIED="1569728743425" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BaseStudy/mk_11_file_study" />
+    <SUITE FILE_PATH="coverage/py3_study$__.coverage" NAME="继承-派生-授权 Coverage Results" MODIFIED="1567832978077" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BaseStudy/mk_15_object_study" />
+    <SUITE FILE_PATH="coverage/py3_study$study_1.coverage" NAME="study_1 Coverage Results" MODIFIED="1566983413339" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BaseStudy/mk_14_module_study" />
+    <SUITE FILE_PATH="coverage/py3_study$os_demo.coverage" NAME="os_demo Coverage Results" MODIFIED="1569556961097" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BaseStudy/mk_17_socket_study/测试" />
+    <SUITE FILE_PATH="coverage/py3_study$day02.coverage" NAME="day02 Coverage Results" MODIFIED="1567580960232" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BaseStudy/mk_15_object_study" />
+    <SUITE FILE_PATH="coverage/py3_study$base64_demo01.coverage" NAME="base64_demo01 Coverage Results" MODIFIED="1566979108375" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/meta_test" />
+    <SUITE FILE_PATH="coverage/py3_study$spider_qiubai.coverage" NAME="spider_qiubai Coverage Results" MODIFIED="1569661528211" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SpiderStudy/demo/糗百" />
+    <SUITE FILE_PATH="coverage/py3_study$generator_demo01.coverage" NAME="generator_demo01 Coverage Results" MODIFIED="1566873521450" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/meta_test" />
+    <SUITE FILE_PATH="coverage/py3_study$_1901_0810_.coverage" NAME="周考_1901_0810_答案 Coverage Results" MODIFIED="1566030619840" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BaseStudy/周考/upload_file_19-08-10" />
+    <SUITE FILE_PATH="coverage/py3_study$day08.coverage" NAME="day08 Coverage Results" MODIFIED="1567850391451" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BaseStudy/mk_15_object_study" />
+    <SUITE FILE_PATH="coverage/py3_study$leetcode_demo_01.coverage" NAME="leetcode_demo_01 Coverage Results" MODIFIED="1565942101727" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/meta_test" />
+    <SUITE FILE_PATH="coverage/py3_study$time_study.coverage" NAME="time_study Coverage Results" MODIFIED="1566891029386" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BaseStudy/mk_14_module_study" />
+    <SUITE FILE_PATH="coverage/py3_study$tcp_client.coverage" NAME="tcp_client Coverage Results" MODIFIED="1569648800939" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BaseStudy/mk_17_socket_study/测试" />
+    <SUITE FILE_PATH="coverage/py3_study$study_3.coverage" NAME="study_3 Coverage Results" MODIFIED="1567151040131" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BaseStudy/mk_16_concurrent_study" />
+    <SUITE FILE_PATH="coverage/py3_study$tcp_simple_server.coverage" NAME="tcp_simple_server Coverage Results" MODIFIED="1569647377598" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BaseStudy/mk_17_socket_study" />
+    <SUITE FILE_PATH="coverage/py3_study$tcp_server.coverage" NAME="tcp_server Coverage Results" MODIFIED="1569648743322" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BaseStudy/mk_17_socket_study/测试" />
+    <SUITE FILE_PATH="coverage/py3_study$os_study.coverage" NAME="os_study Coverage Results" MODIFIED="1566893507417" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BaseStudy/mk_14_module_study" />
+    <SUITE FILE_PATH="coverage/py3_study$sys_demo01.coverage" NAME="sys_demo01 Coverage Results" MODIFIED="1567157425274" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/meta_test" />
+    <SUITE FILE_PATH="coverage/py3_study$study_1__2_.coverage" NAME="study_1 (2) Coverage Results" MODIFIED="1567135244114" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BaseStudy/mk_04_str_study" />
+    <SUITE FILE_PATH="coverage/py3_study$tcp_client_02.coverage" NAME="tcp_client_02 Coverage Results" MODIFIED="1569319089303" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BaseStudy/mk_17_socket_study/测试" />
+    <SUITE FILE_PATH="coverage/py3_study$socket_http_demo.coverage" NAME="socket_http_demo Coverage Results" MODIFIED="1569568700231" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/example_demo/flask_demo" />
+    <SUITE FILE_PATH="coverage/py3_study$nums_game.coverage" NAME="nums_game Coverage Results" MODIFIED="1566631853241" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BaseStudy/作业练习题/文件及数据结构综合操作" />
+    <SUITE FILE_PATH="coverage/py3_study$hashlib_hmac_study.coverage" NAME="hashlib_hmac_study Coverage Results" MODIFIED="1566894544401" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BaseStudy/mk_14_module_study" />
+    <SUITE FILE_PATH="coverage/py3_study$decode_demo.coverage" NAME="decode_demo Coverage Results" MODIFIED="1569551872764" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BaseStudy/mk_17_socket_study/测试" />
+    <SUITE FILE_PATH="coverage/py3_study$day04.coverage" NAME="day04 Coverage Results" MODIFIED="1567591895921" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BaseStudy/mk_15_object_study" />
+    <SUITE FILE_PATH="coverage/py3_study$study_4.coverage" NAME="study_4 Coverage Results" MODIFIED="1566454942818" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BaseStudy/mk_13_function_study" />
+    <SUITE FILE_PATH="coverage/py3_study$ssh_server_demo.coverage" NAME="ssh_server_demo Coverage Results" MODIFIED="1569650862842" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BaseStudy/mk_17_socket_study" />
+    <SUITE FILE_PATH="coverage/py3_study$tcp_client_demo02.coverage" NAME="tcp_client_demo02 Coverage Results" MODIFIED="1569234422263" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BaseStudy/mk_17_socket_study" />
+    <SUITE FILE_PATH="coverage/py3_study$subprocess_demo.coverage" NAME="subprocess_demo Coverage Results" MODIFIED="1569561958864" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BaseStudy/mk_17_socket_study/测试" />
+    <SUITE FILE_PATH="coverage/py3_study$day05.coverage" NAME="day05 Coverage Results" MODIFIED="1568270835905" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BaseStudy/周考/common_file" />
+    <SUITE FILE_PATH="coverage/py3_study$_1901_0817.coverage" NAME="周考_1901_0817 Coverage Results" MODIFIED="1566001237798" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BaseStudy/周考/upload_file_19-08-17" />
+    <SUITE FILE_PATH="coverage/py3_study$practice_01__1_.coverage" NAME="practice_01 (1) Coverage Results" MODIFIED="1566609649604" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BaseStudy/作业练习题/字符串练习" />
+    <SUITE FILE_PATH="coverage/py3_study$day007__1_.coverage" NAME="day007 (1) Coverage Results" MODIFIED="1568273046437" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BaseStudy/周考/common_file" />
+    <SUITE FILE_PATH="coverage/py3_study$test.coverage" NAME="test Coverage Results" MODIFIED="1569215791356" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BaseStudy/mk_17_socket_study/file_upload" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/周考/common_file/车牌限号问题.py" />
+    <entry file="file://$PROJECT_DIR$/BaseStudy/作业练习题/循环练习/practice_01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-486" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BaseStudy/作业练习题/循环练习/车牌号.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/周考/upload_file_19-08-17/user_info.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/周考/upload_file_19-09-21/周考-9-21.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1614" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BaseStudy/作业练习题/考题/文件/工资单.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/周考/upload_file_19-09-05/工资单.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/面向对象课上代码/September/9-9/练习题01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="104" column="10" selection-start-line="104" selection-start-column="10" selection-end-line="104" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BaseStudy/作业练习题/早自习练习题/练习题01.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/面向对象课上代码/September/9-10/作业.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-69" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/面向对象课上代码/September/9-12/练习题.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1782" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BaseStudy/作业练习题/早自习练习题/练习题03.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/面向对象课上代码/September/9-16/继承01.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BaseStudy/作业练习题/早自习练习题/练习题02_第四题.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BaseStudy/作业练习题/早自习练习题/练习题02.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/面向对象课上代码/September/9-10/练习题02.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-891" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/面向对象课上代码/September/9-10/练习题02_第四题.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/面向对象课上代码/September/9-10/练习题02_答案.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BaseStudy/作业练习题/早自习练习题/练习题02_答案.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/面向对象课上代码/September/9-17/练习题-9-17-答案.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BaseStudy/作业练习题/早自习练习题/练习题04.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BaseStudy/作业练习题/早自习练习题/练习题05.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/面向对象课上代码/September/9-19/练习题.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3591">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+          <folding>
+            <element signature="e#100#148#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/面向对象课上代码/September/9-21/面试题.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3471" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/面向对象课上代码/September/9-21/周考-9-21.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BaseStudy/作业练习题/早自习练习题/练习题06.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BaseStudy/作业练习题/早自习练习题/练习题07.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/面向对象课上代码/September/9-26/练习题.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-972" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/面向对象课上代码/September/9-26/元类.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1189" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/面向对象课上代码/September/9-24/周考-9-21-答案.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2188">
+          <caret line="127" lean-forward="true" selection-start-line="127" selection-end-line="127" />
+          <folding>
+            <element signature="e#1723#1734#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/面向对象课上代码/September/9-23/周考-9-21-答案.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2916">
+          <caret selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BaseStudy/作业练习题/早自习练习题/面试题01.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/面向对象课上代码/September/9-20/练习题.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BaseStudy/作业练习题/函数/practice_01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-649" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/周考/common_file/one_homework">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-648" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BaseStudy/mk_15_object_study/课件代码/day08.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BaseStudy/作业练习题/列表操作/practice_01.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BaseStudy/mk_15_object_study/课件代码/day007.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BaseStudy/mk_15_object_study/面向对象-课件/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BaseStudy/mk_15_object_study/面向对象-课件/面向对象08.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BaseStudy/mk_15_object_study/课件代码/day06.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4455" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/周考/file_upload.html" />
+    <entry file="file://$PROJECT_DIR$/周考/img_upload.py" />
+    <entry file="file://$PROJECT_DIR$/周考/templates/file_upload.html" />
+    <entry file="file://$PROJECT_DIR$/周考/templates/result_upload.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BaseStudy/mk_17_socket_study/测试/subprocess_demo.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BaseStudy/mk_17_socket_study/测试/tcp_server.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-45" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BaseStudy/作业练习题/字符串练习/practice_01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="575">
+          <caret line="175" selection-start-line="175" selection-end-line="175" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BaseStudy/mk_17_socket_study/网络编程-课件/网络模型.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/周考/upload_file_19-09-30/字符串操作01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1107">
+          <caret line="41" lean-forward="true" selection-start-line="41" selection-end-line="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/周考/file_server.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="567">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.20386267" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
