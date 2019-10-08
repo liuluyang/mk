@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>共享文件</title>
+</head>
+<body>
+
+<h2>共享文件</h2>
+<hr>
+{%for file in common_files%}
+    <div style="width: 400px;">
+        <a href="{{url_for('common_file', filename=file, action='look')}}">{{file}}</a>
+        <a href="{{url_for('common_file', filename=file, action='download')}}" style="float: right;">下载</a>
+    </div>
+    <br>
+{%endfor%}
+</body>
+</html>
