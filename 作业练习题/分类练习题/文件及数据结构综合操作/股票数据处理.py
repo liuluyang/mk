@@ -3,7 +3,7 @@
 data_list = []
 
 # 数据处理
-with open("stock_data.data", "r", encoding="utf-8") as f:
+with open("stock_data.txt", "r", encoding="utf-8") as f:
     title = f.readline().split()
     data_list_new = [[] for _ in title]
 
