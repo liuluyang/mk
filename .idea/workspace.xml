@@ -2,182 +2,43 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ae9806e0-f1d2-402a-9e70-c7d362212db9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/py3-study/面向对象课上代码/1902/11-21/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/py3-study/面向对象课上代码/1902/11-21/今日内容" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/py3-study/面向对象课上代码/1902/11-21/对象属性.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/py3-study/面向对象课上代码/1902/11-21/练习题.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/py3-study/面向对象课上代码/1902/11-21/认识01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/py3-study/面向对象课上代码/1902/11-21/认识02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/py3-study/面向对象课上代码/1902/11-21/身份证校验.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/py3-study/面向对象课上代码/1902/11-22/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/py3-study/面向对象课上代码/1902/11-22/今日内容" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/py3-study/面向对象课上代码/1902/11-22/作业.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/py3-study/面向对象课上代码/1902/11-22/初始化.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/py3-study/面向对象课上代码/1902/11-22/封装.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/py3-study/面向对象课上代码/1902/11-23/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/py3-study/面向对象课上代码/1902/11-23/今日内容" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/py3-study/面向对象课上代码/1902/11-23/作业-讲解.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/py3-study/面向对象课上代码/1902/11-23/练习题-讲解.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/py3-study/面向对象课上代码/1902/11-25/ATM.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/py3-study/面向对象课上代码/1902/11-25/account" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/py3-study/面向对象课上代码/1902/11-25/今日内容" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/py3-study/面向对象课上代码/1902/11-25/练习题.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/py3-study/面向对象课上代码/1902/11-25/英雄01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/py3-study/面向对象课上代码/1902/11-25/英雄02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/py3-study/面向对象课上代码/1902/11-26/ATM_mutil.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/py3-study/面向对象课上代码/1902/11-26/info/1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/py3-study/面向对象课上代码/1902/11-26/info/123" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/py3-study/面向对象课上代码/1902/11-26/info/123124123213123" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/py3-study/面向对象课上代码/1902/11-26/今日内容" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/py3-study/面向对象课上代码/1902/11-26/继承01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/py3-study/面向对象课上代码/1902/11-26/继承02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/py3-study/面向对象课上代码/1902/11-27/images/类与对象的关系.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/py3-study/面向对象课上代码/1902/11-27/今日内容" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/py3-study/面向对象课上代码/1902/11-27/多态.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/py3-study/面向对象课上代码/1902/11-27/类属性.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/py3-study/面向对象课上代码/1902/11-27/类方法.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/py3-study/面向对象课上代码/1902/11-27/练习题.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/py3-study/面向对象课上代码/1902/11-28/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/py3-study/面向对象课上代码/1902/11-28/七星鲁王宫.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/py3-study/面向对象课上代码/1902/11-28/今日内容" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/py3-study/面向对象课上代码/1902/11-28/内置方法.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/py3-study/面向对象课上代码/1902/11-28/爬虫.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/py3-study/面向对象课上代码/1902/11-28/章节目录.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/py3-study/面向对象课上代码/1902/11-28/约束.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/py3-study/面向对象课上代码/1902/11-29/python学习资源.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/py3-study/面向对象课上代码/1902/11-29/今日内容" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/py3-study/面向对象课上代码/1902/11-29/特殊方法01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/py3-study/面向对象课上代码/1902/11-29/特殊方法02.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/mk.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/mk.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py3-study/面向对象课上代码/1902/11-30/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py3-study/面向对象课上代码/1902/11-30/周考_1902_1130_讲解.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py3-study/面向对象课上代码/1902/12-02/ATM_mutil.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py3-study/面向对象课上代码/1902/12-02/info/123" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py3-study/面向对象课上代码/1902/12-02/test.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py3-study/面向对象课上代码/1902/12-02/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py3-study/面向对象课上代码/1902/12-02/test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py3-study/面向对象课上代码/1902/12-02/test02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py3-study/面向对象课上代码/1902/12-02/今日内容" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py3-study/面向对象课上代码/1902/12-02/作业.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py3-study/面向对象课上代码/1902/12-02/特殊方法03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py3-study/面向对象课上代码/1902/12-03/other/other_inner/test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py3-study/面向对象课上代码/1902/12-03/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py3-study/面向对象课上代码/1902/12-03/test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py3-study/面向对象课上代码/1902/12-03/上下文管理器.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py3-study/面向对象课上代码/1902/12-03/今日内容" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py3-study/面向对象课上代码/1902/12-03/迭代器的实现.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py3-study/面向对象课上代码/1902/12-03/面试题-讲解.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py3-study/面向对象课上代码/1902/12-03/面试题.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py3-study/面向对象课上代码/1902/12-04/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py3-study/面向对象课上代码/1902/12-04/今日内容" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py3-study/面向对象课上代码/1902/12-04/作业题-讲解01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py3-study/面向对象课上代码/1902/12-04/作业题-讲解02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py3-study/面向对象课上代码/1902/12-04/作业题-讲解03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py3-study/面向对象课上代码/1902/12-04/作业题-讲解04.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py3-study/面向对象课上代码/1902/12-04/日志.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py3-study/面向对象课上代码/1902/12-04/构造函数.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py3-study/面向对象课上代码/1902/12-04/练习题.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py3-study/面向对象课上代码/1902/12-05/log.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py3-study/面向对象课上代码/1902/12-05/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py3-study/面向对象课上代码/1902/12-05/人事管理.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py3-study/面向对象课上代码/1902/12-05/多继承.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py3-study/面向对象课上代码/1902/12-05/异常处理.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py3-study/面向对象课上代码/1902/12-05/栈.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py3-study/面向对象课上代码/1902/12-05/组合.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py3-study/面向对象课上代码/1902/12-05/队列.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/py3-study/网络编程课上代码/October/10-09/tcp_client.py" beforeDir="false" afterPath="$PROJECT_DIR$/py3-study/网络编程课上代码/1901/10-09/tcp_client.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/py3-study/网络编程课上代码/October/10-09/tcp_client_02.py" beforeDir="false" afterPath="$PROJECT_DIR$/py3-study/网络编程课上代码/1901/10-09/tcp_client_02.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/py3-study/网络编程课上代码/October/10-09/tcp_server.py" beforeDir="false" afterPath="$PROJECT_DIR$/py3-study/网络编程课上代码/1901/10-09/tcp_server.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/py3-study/网络编程课上代码/October/10-09/this_.py" beforeDir="false" afterPath="$PROJECT_DIR$/py3-study/网络编程课上代码/1901/10-09/this_.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/py3-study/网络编程课上代码/October/10-09/udp_client.py" beforeDir="false" afterPath="$PROJECT_DIR$/py3-study/网络编程课上代码/1901/10-09/udp_client.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/py3-study/网络编程课上代码/October/10-09/udp_server.py" beforeDir="false" afterPath="$PROJECT_DIR$/py3-study/网络编程课上代码/1901/10-09/udp_server.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/py3-study/网络编程课上代码/October/10-09/今日内容" beforeDir="false" afterPath="$PROJECT_DIR$/py3-study/网络编程课上代码/1901/10-09/今日内容" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/py3-study/网络编程课上代码/October/10-10/今日内容" beforeDir="false" afterPath="$PROJECT_DIR$/py3-study/网络编程课上代码/1901/10-10/今日内容" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/py3-study/网络编程课上代码/October/10-10/执行命令.py" beforeDir="false" afterPath="$PROJECT_DIR$/py3-study/网络编程课上代码/1901/10-10/执行命令.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/py3-study/网络编程课上代码/October/10-10/聊天客户端.py" beforeDir="false" afterPath="$PROJECT_DIR$/py3-study/网络编程课上代码/1901/10-10/聊天客户端.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/py3-study/网络编程课上代码/October/10-10/聊天服务端.py" beforeDir="false" afterPath="$PROJECT_DIR$/py3-study/网络编程课上代码/1901/10-10/聊天服务端.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/py3-study/网络编程课上代码/October/10-10/聊天服务端_多线程.py" beforeDir="false" afterPath="$PROJECT_DIR$/py3-study/网络编程课上代码/1901/10-10/聊天服务端_多线程.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/py3-study/网络编程课上代码/October/10-10/远程执行命令客户端.py" beforeDir="false" afterPath="$PROJECT_DIR$/py3-study/网络编程课上代码/1901/10-10/远程执行命令客户端.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/py3-study/网络编程课上代码/October/10-10/远程执行命令服务端.py" beforeDir="false" afterPath="$PROJECT_DIR$/py3-study/网络编程课上代码/1901/10-10/远程执行命令服务端.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/py3-study/网络编程课上代码/October/10-11/今日内容" beforeDir="false" afterPath="$PROJECT_DIR$/py3-study/网络编程课上代码/1901/10-11/今日内容" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/py3-study/网络编程课上代码/October/10-11/执行命令.py" beforeDir="false" afterPath="$PROJECT_DIR$/py3-study/网络编程课上代码/1901/10-11/执行命令.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/py3-study/网络编程课上代码/October/10-11/执行命令_切换目录.py" beforeDir="false" afterPath="$PROJECT_DIR$/py3-study/网络编程课上代码/1901/10-11/执行命令_切换目录.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/py3-study/网络编程课上代码/October/10-11/远程执行命令客户端.py" beforeDir="false" afterPath="$PROJECT_DIR$/py3-study/网络编程课上代码/1901/10-11/远程执行命令客户端.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/py3-study/网络编程课上代码/October/10-11/远程执行命令服务端_切换目录.py" beforeDir="false" afterPath="$PROJECT_DIR$/py3-study/网络编程课上代码/1901/10-11/远程执行命令服务端_切换目录.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/py3-study/网络编程课上代码/October/10-12/FTP客户端.py" beforeDir="false" afterPath="$PROJECT_DIR$/py3-study/网络编程课上代码/1901/10-12/FTP客户端.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/py3-study/网络编程课上代码/October/10-12/FTP服务端.py" beforeDir="false" afterPath="$PROJECT_DIR$/py3-study/网络编程课上代码/1901/10-12/FTP服务端.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/py3-study/网络编程课上代码/October/10-12/今日内容" beforeDir="false" afterPath="$PROJECT_DIR$/py3-study/网络编程课上代码/1901/10-12/今日内容" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/py3-study/网络编程课上代码/October/10-12/执行命令.py" beforeDir="false" afterPath="$PROJECT_DIR$/py3-study/网络编程课上代码/1901/10-12/执行命令.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/py3-study/网络编程课上代码/October/10-14/今日内容" beforeDir="false" afterPath="$PROJECT_DIR$/py3-study/网络编程课上代码/1901/10-14/今日内容" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/py3-study/网络编程课上代码/October/10-14/文件上传-客户端.py" beforeDir="false" afterPath="$PROJECT_DIR$/py3-study/网络编程课上代码/1901/10-14/文件上传-客户端.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/py3-study/网络编程课上代码/October/10-14/文件上传-服务端.py" beforeDir="false" afterPath="$PROJECT_DIR$/py3-study/网络编程课上代码/1901/10-14/文件上传-服务端.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/py3-study/网络编程课上代码/October/10-14/文件上传下载-客户端.py" beforeDir="false" afterPath="$PROJECT_DIR$/py3-study/网络编程课上代码/1901/10-14/文件上传下载-客户端.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/py3-study/网络编程课上代码/October/10-14/文件上传下载-服务端.py" beforeDir="false" afterPath="$PROJECT_DIR$/py3-study/网络编程课上代码/1901/10-14/文件上传下载-服务端.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/py3-study/网络编程课上代码/October/10-15/FTP客户端.py" beforeDir="false" afterPath="$PROJECT_DIR$/py3-study/网络编程课上代码/1901/10-15/FTP客户端.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/py3-study/网络编程课上代码/October/10-15/FTP服务端.py" beforeDir="false" afterPath="$PROJECT_DIR$/py3-study/网络编程课上代码/1901/10-15/FTP服务端.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/py3-study/网络编程课上代码/October/10-15/images/socket.png" beforeDir="false" afterPath="$PROJECT_DIR$/py3-study/网络编程课上代码/1901/10-15/images/socket.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/py3-study/网络编程课上代码/October/10-15/今日内容" beforeDir="false" afterPath="$PROJECT_DIR$/py3-study/网络编程课上代码/1901/10-15/今日内容" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/py3-study/网络编程课上代码/October/10-16/FTP客户端.py" beforeDir="false" afterPath="$PROJECT_DIR$/py3-study/网络编程课上代码/1901/10-16/FTP客户端.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/py3-study/网络编程课上代码/October/10-16/FTP服务端.py" beforeDir="false" afterPath="$PROJECT_DIR$/py3-study/网络编程课上代码/1901/10-16/FTP服务端.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/py3-study/网络编程课上代码/October/10-16/ftpclient.py" beforeDir="false" afterPath="$PROJECT_DIR$/py3-study/网络编程课上代码/1901/10-16/ftpclient.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/py3-study/网络编程课上代码/October/10-16/ftpserver.py" beforeDir="false" afterPath="$PROJECT_DIR$/py3-study/网络编程课上代码/1901/10-16/ftpserver.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/py3-study/网络编程课上代码/October/10-16/images/路径限制.png" beforeDir="false" afterPath="$PROJECT_DIR$/py3-study/网络编程课上代码/1901/10-16/images/路径限制.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/py3-study/网络编程课上代码/October/10-16/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/py3-study/网络编程课上代码/1901/10-16/test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/py3-study/网络编程课上代码/October/10-16/今日内容" beforeDir="false" afterPath="$PROJECT_DIR$/py3-study/网络编程课上代码/1901/10-16/今日内容" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/py3-study/网络编程课上代码/October/10-17/FTP客户端-压缩解压.py" beforeDir="false" afterPath="$PROJECT_DIR$/py3-study/网络编程课上代码/1901/10-17/FTP客户端-压缩解压.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/py3-study/网络编程课上代码/October/10-17/FTP服务端-压缩解压.py" beforeDir="false" afterPath="$PROJECT_DIR$/py3-study/网络编程课上代码/1901/10-17/FTP服务端-压缩解压.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/py3-study/网络编程课上代码/October/10-17/struct_pack.py" beforeDir="false" afterPath="$PROJECT_DIR$/py3-study/网络编程课上代码/1901/10-17/struct_pack.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/py3-study/网络编程课上代码/October/10-17/今日内容" beforeDir="false" afterPath="$PROJECT_DIR$/py3-study/网络编程课上代码/1901/10-17/今日内容" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/py3-study/网络编程课上代码/October/10-18/FTP服务端-精确接收数据.py" beforeDir="false" afterPath="$PROJECT_DIR$/py3-study/网络编程课上代码/1901/10-18/FTP服务端-精确接收数据.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/py3-study/网络编程课上代码/October/10-18/ftpserver.py" beforeDir="false" afterPath="$PROJECT_DIR$/py3-study/网络编程课上代码/1901/10-18/ftpserver.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/py3-study/网络编程课上代码/October/10-18/tcpclient.py" beforeDir="false" afterPath="$PROJECT_DIR$/py3-study/网络编程课上代码/1901/10-18/tcpclient.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/py3-study/网络编程课上代码/October/10-18/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/py3-study/网络编程课上代码/1901/10-18/test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/py3-study/网络编程课上代码/October/10-18/今日内容" beforeDir="false" afterPath="$PROJECT_DIR$/py3-study/网络编程课上代码/1901/10-18/今日内容" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/py3-study/面向对象课上代码/September/9-10/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/py3-study/面向对象课上代码/1901/9-10/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/py3-study/面向对象课上代码/September/9-10/作业.py" beforeDir="false" afterPath="$PROJECT_DIR$/py3-study/面向对象课上代码/1901/9-10/作业.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/py3-study/面向对象课上代码/September/9-10/封装01.py" beforeDir="false" afterPath="$PROJECT_DIR$/py3-study/面向对象课上代码/1901/9-10/封装01.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/py3-study/面向对象课上代码/September/9-10/练习题02.py" beforeDir="false" afterPath="$PROJECT_DIR$/py3-study/面向对象课上代码/1901/9-10/练习题02.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/py3-study/面向对象课上代码/September/9-10/练习题02_第四题.py" beforeDir="false" afterPath="$PROJECT_DIR$/py3-study/面向对象课上代码/1901/9-10/练习题02_第四题.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/py3-study/面向对象课上代码/September/9-10/练习题02_答案.py" beforeDir="false" afterPath="$PROJECT_DIR$/py3-study/面向对象课上代码/1901/9-10/练习题02_答案.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/py3-study/面向对象课上代码/September/9-10/面向对象03.md" beforeDir="false" afterPath="$PROJECT_DIR$/py3-study/面向对象课上代码/1901/9-10/面向对象03.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/py3-study/面向对象课上代码/September/9-11/ATM.py" beforeDir="false" afterPath="$PROJECT_DIR$/py3-study/面向对象课上代码/1901/9-11/ATM.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/py3-study/面向对象课上代码/September/9-11/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/py3-study/面向对象课上代码/1901/9-11/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/py3-study/面向对象课上代码/September/9-11/封装02.py" beforeDir="false" afterPath="$PROJECT_DIR$/py3-study/面向对象课上代码/1901/9-11/封装02.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/py3-study/面向对象课上代码/September/9-11/英雄-简单版.py" beforeDir="false" afterPath="$PROJECT_DIR$/py3-study/面向对象课上代码/1901/9-11/英雄-简单版.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/py3-study/面向对象课上代码/September/9-11/英雄.py" beforeDir="false" afterPath="$PROJECT_DIR$/py3-study/面向对象课上代码/1901/9-11/英雄.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/py3-study/面向对象课上代码/September/9-11/英雄02.py" beforeDir="false" afterPath="$PROJECT_DIR$/py3-study/面向对象课上代码/1901/9-11/英雄02.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/py3-study/面向对象课上代码/September/9-11/账户.txt" beforeDir="false" afterPath="$PROJECT_DIR$/py3-study/面向对象课上代码/1901/9-11/账户.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/py3-study/面向对象课上代码/September/9-12/ATM.py" beforeDir="false" afterPath="$PROJECT_DIR$/py3-study/面向对象课上代码/1901/9-12/ATM.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/py3-study/面向对象课上代码/September/9-12/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/py3-study/面向对象课上代码/1901/9-12/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/py3-study/面向对象课上代码/September/9-12/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/py3-study/面向对象课上代码/1901/9-12/test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/py3-study/面向对象课上代码/September/9-12/练习题.py" beforeDir="false" afterPath="$PROJECT_DIR$/py3-study/面向对象课上代码/1901/9-12/练习题.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/py3-study/面向对象课上代码/September/9-12/账户" beforeDir="false" afterPath="$PROJECT_DIR$/py3-study/面向对象课上代码/1901/9-12/账户" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/py3-study/面向对象课上代码/September/9-12/食堂账本.txt" beforeDir="false" afterPath="$PROJECT_DIR$/py3-study/面向对象课上代码/1901/9-12/食堂账本.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/py3-study/面向对象课上代码/September/9-16/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/py3-study/面向对象课上代码/1901/9-16/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/py3-study/面向对象课上代码/September/9-16/miller.py" beforeDir="false" afterPath="$PROJECT_DIR$/py3-study/面向对象课上代码/1901/9-16/miller.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/py3-study/面向对象课上代码/September/9-16/继承01.py" beforeDir="false" afterPath="$PROJECT_DIR$/py3-study/面向对象课上代码/1901/9-16/继承01.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/py3-study/面向对象课上代码/September/9-16/面向对象04.md" beforeDir="false" afterPath="$PROJECT_DIR$/py3-study/面向对象课上代码/1901/9-16/面向对象04.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/py3-study/面向对象课上代码/September/9-17/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/py3-study/面向对象课上代码/1901/9-17/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/py3-study/面向对象课上代码/September/9-17/约束01.py" beforeDir="false" afterPath="$PROJECT_DIR$/py3-study/面向对象课上代码/1901/9-17/约束01.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/py3-study/面向对象课上代码/September/9-17/练习题-9-17-答案.py" beforeDir="false" afterPath="$PROJECT_DIR$/py3-study/面向对象课上代码/1901/9-17/练习题-9-17-答案.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/py3-study/面向对象课上代码/September/9-17/继承02.py" beforeDir="false" afterPath="$PROJECT_DIR$/py3-study/面向对象课上代码/1901/9-17/继承02.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/py3-study/面向对象课上代码/September/9-17/面向对象05.md" beforeDir="false" afterPath="$PROJECT_DIR$/py3-study/面向对象课上代码/1901/9-17/面向对象05.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/py3-study/面向对象课上代码/September/9-18/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/py3-study/面向对象课上代码/1901/9-18/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/py3-study/面向对象课上代码/September/9-18/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/py3-study/面向对象课上代码/1901/9-18/test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/py3-study/面向对象课上代码/September/9-18/特殊方法01.py" beforeDir="false" afterPath="$PROJECT_DIR$/py3-study/面向对象课上代码/1901/9-18/特殊方法01.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/py3-study/面向对象课上代码/September/9-18/面向对象06.md" beforeDir="false" afterPath="$PROJECT_DIR$/py3-study/面向对象课上代码/1901/9-18/面向对象06.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/py3-study/面向对象课上代码/September/9-19/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/py3-study/面向对象课上代码/1901/9-19/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/py3-study/面向对象课上代码/September/9-19/练习题.py" beforeDir="false" afterPath="$PROJECT_DIR$/py3-study/面向对象课上代码/1901/9-19/练习题.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/py3-study/面向对象课上代码/September/9-19/迭代器.py" beforeDir="false" afterPath="$PROJECT_DIR$/py3-study/面向对象课上代码/1901/9-19/迭代器.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/py3-study/面向对象课上代码/September/9-19/面向对象07.md" beforeDir="false" afterPath="$PROJECT_DIR$/py3-study/面向对象课上代码/1901/9-19/面向对象07.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/py3-study/面向对象课上代码/September/9-20/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/py3-study/面向对象课上代码/1901/9-20/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/py3-study/面向对象课上代码/September/9-20/t.txt" beforeDir="false" afterPath="$PROJECT_DIR$/py3-study/面向对象课上代码/1901/9-20/t.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/py3-study/面向对象课上代码/September/9-20/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/py3-study/面向对象课上代码/1901/9-20/test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/py3-study/面向对象课上代码/September/9-20/今日内容" beforeDir="false" afterPath="$PROJECT_DIR$/py3-study/面向对象课上代码/1901/9-20/今日内容" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/py3-study/面向对象课上代码/September/9-20/反射应用.py" beforeDir="false" afterPath="$PROJECT_DIR$/py3-study/面向对象课上代码/1901/9-20/反射应用.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/py3-study/面向对象课上代码/September/9-20/特殊方法.py" beforeDir="false" afterPath="$PROJECT_DIR$/py3-study/面向对象课上代码/1901/9-20/特殊方法.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/py3-study/面向对象课上代码/September/9-20/练习题.py" beforeDir="false" afterPath="$PROJECT_DIR$/py3-study/面向对象课上代码/1901/9-20/练习题.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/py3-study/面向对象课上代码/September/9-20/迭代器.py" beforeDir="false" afterPath="$PROJECT_DIR$/py3-study/面向对象课上代码/1901/9-20/迭代器.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/py3-study/面向对象课上代码/September/9-21/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/py3-study/面向对象课上代码/1901/9-21/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/py3-study/面向对象课上代码/September/9-21/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/py3-study/面向对象课上代码/1901/9-21/test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/py3-study/面向对象课上代码/September/9-21/周考-9-21.py" beforeDir="false" afterPath="$PROJECT_DIR$/py3-study/面向对象课上代码/1901/9-21/周考-9-21.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/py3-study/面向对象课上代码/September/9-21/面试题.py" beforeDir="false" afterPath="$PROJECT_DIR$/py3-study/面向对象课上代码/1901/9-21/面试题.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/py3-study/面向对象课上代码/September/9-23/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/py3-study/面向对象课上代码/1901/9-23/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/py3-study/面向对象课上代码/September/9-23/周考-9-21-答案.py" beforeDir="false" afterPath="$PROJECT_DIR$/py3-study/面向对象课上代码/1901/9-23/周考-9-21-答案.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/py3-study/面向对象课上代码/September/9-24/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/py3-study/面向对象课上代码/1901/9-24/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/py3-study/面向对象课上代码/September/9-24/t.txt" beforeDir="false" afterPath="$PROJECT_DIR$/py3-study/面向对象课上代码/1901/9-24/t.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/py3-study/面向对象课上代码/September/9-24/上下文管理器.py" beforeDir="false" afterPath="$PROJECT_DIR$/py3-study/面向对象课上代码/1901/9-24/上下文管理器.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/py3-study/面向对象课上代码/September/9-24/周考-9-21-答案.py" beforeDir="false" afterPath="$PROJECT_DIR$/py3-study/面向对象课上代码/1901/9-24/周考-9-21-答案.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/py3-study/面向对象课上代码/September/9-24/构造方法.py" beforeDir="false" afterPath="$PROJECT_DIR$/py3-study/面向对象课上代码/1901/9-24/构造方法.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/py3-study/面向对象课上代码/September/9-25/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/py3-study/面向对象课上代码/1901/9-25/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/py3-study/面向对象课上代码/September/9-25/人事管理.py" beforeDir="false" afterPath="$PROJECT_DIR$/py3-study/面向对象课上代码/1901/9-25/人事管理.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/py3-study/面向对象课上代码/September/9-25/元类.py" beforeDir="false" afterPath="$PROJECT_DIR$/py3-study/面向对象课上代码/1901/9-25/元类.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/py3-study/面向对象课上代码/September/9-25/多继承.py" beforeDir="false" afterPath="$PROJECT_DIR$/py3-study/面向对象课上代码/1901/9-25/多继承.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/py3-study/面向对象课上代码/September/9-25/异常处理.py" beforeDir="false" afterPath="$PROJECT_DIR$/py3-study/面向对象课上代码/1901/9-25/异常处理.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/py3-study/面向对象课上代码/September/9-25/数据结构.py" beforeDir="false" afterPath="$PROJECT_DIR$/py3-study/面向对象课上代码/1901/9-25/数据结构.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/py3-study/面向对象课上代码/September/9-25/类关系图.png" beforeDir="false" afterPath="$PROJECT_DIR$/py3-study/面向对象课上代码/1901/9-25/类关系图.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/py3-study/面向对象课上代码/September/9-26/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/py3-study/面向对象课上代码/1901/9-26/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/py3-study/面向对象课上代码/September/9-26/元类.py" beforeDir="false" afterPath="$PROJECT_DIR$/py3-study/面向对象课上代码/1901/9-26/元类.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/py3-study/面向对象课上代码/September/9-26/普通类.py" beforeDir="false" afterPath="$PROJECT_DIR$/py3-study/面向对象课上代码/1901/9-26/普通类.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/py3-study/面向对象课上代码/September/9-26/栈.py" beforeDir="false" afterPath="$PROJECT_DIR$/py3-study/面向对象课上代码/1901/9-26/栈.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/py3-study/面向对象课上代码/September/9-26/练习题.py" beforeDir="false" afterPath="$PROJECT_DIR$/py3-study/面向对象课上代码/1901/9-26/练习题.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/py3-study/面向对象课上代码/September/9-7/miller.py" beforeDir="false" afterPath="$PROJECT_DIR$/py3-study/面向对象课上代码/1901/9-7/miller.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/py3-study/面向对象课上代码/September/9-7/描述符.py" beforeDir="false" afterPath="$PROJECT_DIR$/py3-study/面向对象课上代码/1901/9-7/描述符.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/py3-study/面向对象课上代码/September/9-7/类.py" beforeDir="false" afterPath="$PROJECT_DIR$/py3-study/面向对象课上代码/1901/9-7/类.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/py3-study/面向对象课上代码/September/9-7/类测试.py" beforeDir="false" afterPath="$PROJECT_DIR$/py3-study/面向对象课上代码/1901/9-7/类测试.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/py3-study/面向对象课上代码/September/9-9/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/py3-study/面向对象课上代码/1901/9-9/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/py3-study/面向对象课上代码/September/9-9/练习题01.py" beforeDir="false" afterPath="$PROJECT_DIR$/py3-study/面向对象课上代码/1901/9-9/练习题01.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/py3-study/面向对象课上代码/September/9-9/认识01.py" beforeDir="false" afterPath="$PROJECT_DIR$/py3-study/面向对象课上代码/1901/9-9/认识01.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/py3-study/面向对象课上代码/September/9-9/认识02.py" beforeDir="false" afterPath="$PROJECT_DIR$/py3-study/面向对象课上代码/1901/9-9/认识02.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/py3-study/面向对象课上代码/September/9-9/面向对象01.md" beforeDir="false" afterPath="$PROJECT_DIR$/py3-study/面向对象课上代码/1901/9-9/面向对象01.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/py3-study/面向对象课上代码/September/9-9/面向对象02.md" beforeDir="false" afterPath="$PROJECT_DIR$/py3-study/面向对象课上代码/1901/9-9/面向对象02.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -208,6 +69,7 @@
         <option value="$PROJECT_DIR$/作业练习题/分类练习题/文件及数据结构综合操作/股票数据处理.py" />
         <option value="$PROJECT_DIR$/py3-study/面向对象课上代码/September/9-11/英雄.py" />
         <option value="$PROJECT_DIR$/py3-study/面向对象课上代码/September/9-12/ATM.py" />
+        <option value="$PROJECT_DIR$/作业练习题/早自习练习题/练习题05.py" />
       </list>
     </option>
   </component>
@@ -223,13 +85,33 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="ProjectPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="mk" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mk" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mk" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mk" type="462c0819:PsiDirectoryNode" />
+              <item name="py3-study" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mk" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mk" type="462c0819:PsiDirectoryNode" />
+              <item name="作业练习题" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/文件服务" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/py3-study/面向对象课上代码/1902" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
@@ -237,12 +119,13 @@
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="F:\刘禄扬\github\mk\py3-study\面向对象课上代码\1902" />
+      <recent name="F:\刘禄扬\github\mk\文件服务" />
       <recent name="E:\liuluyang\github\mk\py3-study\BaseStudy\课件" />
       <recent name="E:\liuluyang\github\mk\py3-study\BaseStudy\课件\加密" />
       <recent name="E:\liuluyang\github\mk\作业练习题\考题\1902" />
-      <recent name="E:\liuluyang\github\mk\py3-study\模块编程课上代码\1902" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\刘禄扬\github\mk" />
       <recent name="E:\liuluyang\github\mk\py3-study\BaseStudy\mk_13_function_study\备课代码" />
     </key>
   </component>
@@ -281,7 +164,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="循环练习01-答案" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="练习题05" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="mk" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -289,12 +172,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/作业练习题/分类练习题/基础练习题" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/作业练习题/早自习练习题" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/作业练习题/分类练习题/基础练习题/循环练习01-答案.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/作业练习题/早自习练习题/练习题05.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -317,6 +200,28 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/py3-study/面向对象课上代码/September/9-12/ATM.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="元类" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="mk" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/py3-study/面向对象课上代码/1901/9-25" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/py3-study/面向对象课上代码/1901/9-25/元类.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -369,35 +274,12 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="turtle_study" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="mk" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/py3-study/example_demo" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/py3-study/example_demo/turtle_study.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.练习题05" />
         <item itemvalue="Python.ATM" />
         <item itemvalue="Python.内置函数" />
         <item itemvalue="Python.pickle_json_study" />
-        <item itemvalue="Python.turtle_study" />
-        <item itemvalue="Python.循环练习01-答案" />
       </list>
     </recent_temporary>
   </component>
@@ -443,22 +325,31 @@
       <workItem from="1575006728516" duration="559000" />
       <workItem from="1575012876828" duration="3367000" />
       <workItem from="1575074818162" duration="744000" />
-      <workItem from="1575082038020" duration="1701000" />
+      <workItem from="1575082038020" duration="1968000" />
+      <workItem from="1575270032127" duration="1381000" />
+      <workItem from="1575334209689" duration="1872000" />
+      <workItem from="1575352168640" duration="920000" />
+      <workItem from="1575422178586" duration="70000" />
+      <workItem from="1575430957312" duration="214000" />
+      <workItem from="1575439551707" duration="1207000" />
+      <workItem from="1575445771921" duration="647000" />
+      <workItem from="1575507225361" duration="1133000" />
+      <workItem from="1575535410079" duration="1508000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="61250000" />
+    <option name="totallyTimeSpent" value="70469000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="54" y="-8" width="1394" height="916" extended-state="7" />
+    <frame x="54" y="-8" width="1394" height="916" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22863568" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17991005" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.26877472" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.20685112" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -483,142 +374,13 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/mk$turtle_study.coverage" NAME="turtle_study Coverage Results" MODIFIED="1571967140610" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py3-study/example_demo" />
+    <SUITE FILE_PATH="coverage/mk$05.coverage" NAME="练习题05 Coverage Results" MODIFIED="1575271035063" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/作业练习题/早自习练习题" />
     <SUITE FILE_PATH="coverage/mk$ATM.coverage" NAME="ATM Coverage Results" MODIFIED="1574673367980" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py3-study/面向对象课上代码/September/9-12" />
-    <SUITE FILE_PATH="coverage/mk$.coverage" NAME="股票数据处理 Coverage Results" MODIFIED="1574650098621" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/作业练习题/分类练习题/文件及数据结构综合操作" />
+    <SUITE FILE_PATH="coverage/mk$.coverage" NAME="元类 Coverage Results" MODIFIED="1575507497596" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py3-study/面向对象课上代码/1901/9-25" />
     <SUITE FILE_PATH="coverage/mk$pickle_json_study.coverage" NAME="pickle_json_study Coverage Results" MODIFIED="1573524757928" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py3-study/BaseStudy/mk_14_module_study" />
     <SUITE FILE_PATH="coverage/mk$01_.coverage" NAME="循环练习01-答案 Coverage Results" MODIFIED="1570172104160" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/作业练习题/分类练习题/基础练习题" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/作业练习题/早自习练习题/练习题07.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/作业练习题/早自习练习题/练习题06.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-101">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-          <folding>
-            <element signature="e#216#227#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/作业练习题/早自习练习题/练习题02.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2369">
-          <caret line="55" column="17" selection-start-line="55" selection-start-column="17" selection-end-line="55" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/作业练习题/早自习练习题/练习题01.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-486">
-          <caret line="87" column="26" selection-start-line="87" selection-start-column="26" selection-end-line="87" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/作业练习题/分类练习题/基础练习题/字符串操作01.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/作业练习题/分类练习题/基础练习题/字符串操作01-答案.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1613" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/作业练习题/分类练习题/基础练习题/列表操作01.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="466">
-          <caret line="27" column="17" selection-start-line="27" selection-start-column="17" selection-end-line="27" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/作业练习题/分类练习题/基础练习题/图形打印01.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="123" column="9" lean-forward="true" selection-start-line="123" selection-start-column="9" selection-end-line="123" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/作业练习题/分类练习题/基础练习题/循环练习01.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="547">
-          <caret line="27" column="3" selection-start-line="27" selection-start-column="3" selection-end-line="27" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/作业练习题/分类练习题/基础练习题/函数01.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="67" column="15" lean-forward="true" selection-start-line="67" selection-start-column="15" selection-end-line="67" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/作业练习题/分类练习题/文件及数据结构综合操作/test_w.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/作业练习题/分类练习题/文件及数据结构综合操作/res/效果图03.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/作业练习题/分类练习题/文件及数据结构综合操作/股票数据处理.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="20" column="8" lean-forward="true" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/作业练习题/分类练习题/文件及数据结构综合操作/stock_data.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="81">
-          <caret line="3" column="24" lean-forward="true" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/作业练习题/早自习练习题/练习题03.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="412">
-          <caret line="47" lean-forward="true" selection-start-line="47" selection-end-line="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/作业练习题/早自习练习题/练习题04.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-162">
-          <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/作业练习题/分类练习题/文件及数据结构综合操作/取出文件最后一行.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/py3-study/面向对象课上代码/1901/9-11/英雄.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="81">
-          <caret line="36" column="11" lean-forward="true" selection-start-line="36" selection-start-column="11" selection-end-line="36" selection-end-column="11" />
-          <folding>
-            <element signature="e#1298#1309#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/py3-study/面向对象课上代码/1901/9-11/ATM.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="520">
-          <caret line="112" lean-forward="true" selection-start-line="112" selection-end-line="112" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/py3-study/网络编程课上代码/1901/10-09/今日内容">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/py3-study/网络编程课上代码/1901/10-10/今日内容">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/py3-study/网络编程课上代码/1901/10-11/今日内容">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/py3-study/网络编程课上代码/1901/10-12/今日内容">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -778,6 +540,151 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/py3-study/面向对象课上代码/1902/11-28/今日内容">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/文件服务/http_server.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="78" lean-forward="true" selection-start-line="78" selection-end-line="78" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/py3-study/面向对象课上代码/1901/9-20/迭代器.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-830">
+          <caret line="77" lean-forward="true" selection-start-line="77" selection-end-line="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/py3-study/面向对象课上代码/1901/9-21/面试题.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2666" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/作业练习题/早自习练习题/练习题05.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-779">
+          <caret line="108" lean-forward="true" selection-start-line="108" selection-end-line="108" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/作业练习题/早自习练习题/练习题07.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/作业练习题/早自习练习题/练习题04.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1613">
+          <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/作业练习题/早自习练习题/面试题01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2828" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/作业练习题/早自习练习题/练习题06.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+          <folding>
+            <element signature="e#216#227#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2019.1/system/python_stubs/-287100998/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="899" column="12" lean-forward="true" selection-start-line="899" selection-start-column="12" selection-end-line="899" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/py3-study/面向对象课上代码/1901/9-24/构造方法.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="9" column="14" lean-forward="true" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/作业练习题/考题/1902/周考试题及答案_1902_1116.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="65" column="3" lean-forward="true" selection-start-line="65" selection-start-column="3" selection-end-line="65" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/py3-study/面向对象课上代码/1901/9-25/元类.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-479">
+          <caret line="76" column="18" lean-forward="true" selection-start-line="76" selection-start-column="18" selection-end-line="76" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/py3-study/面向对象课上代码/1901/9-26/普通类.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-486" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/py3-study/面向对象课上代码/1901/9-26/练习题.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/py3-study/面向对象课上代码/1901/9-25/类关系图.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/py3-study/面向对象课上代码/1901/9-25/异常处理.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="89" column="19" lean-forward="true" selection-start-line="89" selection-start-column="19" selection-end-line="89" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/py3-study/面向对象课上代码/1901/9-25/多继承.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-857" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/py3-study/面向对象课上代码/1901/9-25/人事管理.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+          <folding>
+            <element signature="e#1#16#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/py3-study/面向对象课上代码/1901/9-25/数据结构.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1168">
+          <caret line="145" column="17" selection-start-line="145" selection-start-column="17" selection-end-line="145" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/py3-study/面向对象课上代码/1901/9-26/元类.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1053" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/py3-study/面向对象课上代码/1901/9-26/栈.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="31" column="3" lean-forward="true" selection-start-line="31" selection-start-column="3" selection-end-line="31" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/py3-study/面向对象课上代码/1902/11-30/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="21" lean-forward="true" selection-start-column="21" selection-end-column="21" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
